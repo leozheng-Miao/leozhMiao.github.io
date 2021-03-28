@@ -1,0 +1,131 @@
+.wholeDiv{
+    /*background-color: #E8FFE8;*/
+    background: rgb(2,0,36);
+    background: linear-gradient(28deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 37%, rgba(194,234,242,0.7357317927170868) 100%);
+}
+p{
+    font-family: 'Noto Sans SC', sans-serif;
+
+}
+.background{
+    margin: 0 auto;
+    position: relative;
+    width:800px;
+    height:250px;
+    /*background-color:#D5F3F4;*/
+    background: antiquewhite;
+}
+h4{
+    font-weight: bold;
+}
+.alink{
+    font-family: 'Lato', sans-serif;
+}
+.alink li{
+    font-family: 'Balsamiq Sans', cursive;
+
+}
+.menu1{
+    font-size: 20px;
+}
+.photo{
+    float: left;
+    padding-top: 30px;
+    padding-left: 20px;
+    width: 200px;
+    height: 200px;
+}
+.alink li ,a{
+
+    text-decoration: none;
+}
+.photo2 ,.photo3{
+    text-align: center;
+}
+a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+h2{
+
+}
+h3{
+    font-family: 'Merriweather', serif;
+    margin-right: 10px;
+}
+.everyTitle{
+    font-family: 'Merriweather', serif;
+}
+.background .information{
+    margin-top: 70px;
+    margin-right: 20px;
+    float: right;
+
+}
+
+
+.background4 .jobPhoto{
+    float: right;
+}
+#idealJob{
+    width: 600px;
+    height: 45px;
+}
+
+
+
+.Menu{
+    height: 200px;
+    width: 210px;
+    position: fixed;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    top:0;
+    float: right;
+}
+
+.BG{
+    width: 800px;
+    margin: auto;
+    background: antiquewhite;
+
+}
+
+.background2{
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    position: relative;
+    background: antiquewhite;
+
+}
+.background3{
+    width: 800px;
+    height: 535px;
+    margin: auto;
+    background: antiquewhite;
+}
+.background4{
+    width: 800px;
+    height: 1250px;
+    margin: auto;
+    background: antiquewhite;
+}
+
+.background5{
+    width: 800px;
+    height: 2600px;
+    margin: auto;
+    background: antiquewhite;
+}
+.background6{
+    height:2200px;
+    width: 800px;
+    margin: auto;
+    background: antiquewhite;
+}
+
+
+
+
+
